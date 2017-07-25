@@ -82,7 +82,7 @@
                     <transformers>
                         <transformer
                                 implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                            <mainClass>com.titizz.wormhole.fetcher.Fetcher</mainClass>
+                            <mainClass>com.titizz.wormhole.fetcher.FetcherApp</mainClass>
                         </transformer>
                     </transformers>
                 </configuration>
